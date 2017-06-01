@@ -1,1 +1,2 @@
-joe.abbey@gmail.com West Lafayette, IN
+joe.abbey@gmail.com
+West Lafayette, IN
